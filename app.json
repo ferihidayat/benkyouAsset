@@ -1,0 +1,61 @@
+{
+    "app": [{
+        "title": "Manabu",
+        "title_jp": "学ぶ",
+        "author": "Feri Hidayatulloh",
+        "author_jp": "フェリ　ヒダヤトゥロー",
+        "deskripsi": "Web tempat belajar B Jepang, Choukai Dll",
+        "profil": "Content Creator, Web Developer, UI / UX Designer",
+        "instagram": "https://www.instagram.com/ferihidayatx",
+        "facebook": "https://www.facebook.com/ferihidayatx",
+        "github": "https://github.com/ferihidayat",
+        "youtube": "https://www.youtube.com/channel/UC5R2L_JhbQsjC-K0jSmHEpA",
+        "link": "https://benkyoushiyou.vercel.app/",
+        "icon": "app/img/layouts/profile.jpg",
+        "carousel": [{
+            "id": 1,
+            "gambar": "app/img/carousel/manabunihongo.png",
+            "active": "active"
+        }, {
+            "id": 2,
+            "gambar": "app/img/carousel/myanimelist.jpeg",
+            "active": ""
+        }],
+        "fitur": [{
+            "id": 1,
+            "title": "Bahasa Jepang",
+            "link": "#",
+            "icon": "app/img/fitur/bjepang.webp",
+            "proses": false
+        }, {
+            "id": 2,
+            "title": "Choukai",
+            "link": "choukai/index.html",
+            "icon": "app/img/fitur/choukai.png",
+            "proses": false
+        }, {
+            "id": 3,
+            "title": "Kanji",
+            "link": "kanji/index.html",
+            "icon": "app/img/fitur/kanji.png",
+            "proses": false
+        }],
+        "kategori": [{
+            "id": 1,
+            "title": "#Nihon Go",
+            "link": "#"
+        }, {
+            "id": 2,
+            "title": "#Choukai JFT",
+            "link": "choukai/index.html"
+        }, {
+            "id": 3,
+            "title": "#Choukai JLPT",
+            "link": "choukai/index.html"
+        }, {
+            "id": 4,
+            "title": "#Kanji",
+            "link": "https://kotobaweb.com/kanjigame/create"
+        }]
+    }]
+}

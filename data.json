@@ -1,0 +1,18 @@
+{
+    "listChoukai": [{
+        "id": "1",
+        "title": "Choukai JFT 1",
+        "level": "JFT Basic A2",
+        "total": "8",
+        "access": true,
+        "pdf": "example.pdf",
+        "mondai": [{
+            "id": "1",
+            "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft1/mondai1.mp3",
+            "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft1/mondai1.jpg",
+            "kotoba": "",
+            "text": "A : 日本では何をしていますか <br>B : 働いています <br>A : そうですか どんな仕事ですか <br>B : 介護の仕事をしています <br>A : 仕事はどうですか ​​​​​​​<br>B : 毎日大変ですでも楽しいです",
+            "jawaban": "3"
+        }]
+    }]
+}
